@@ -2,5 +2,8 @@
 A simple Movie catalog with Search functionality implemented for finding movies using the OMPDB API.
 
 
-https://github.com/user-attachments/assets/3ddd56cb-9311-4350-84cd-37ee29d78f60
+
+***Here's a Video**
+
+https://github.com/user-attachments/assets/5b9a6792-5bc5-4ad2-a67f-43a41d03a64d
 
